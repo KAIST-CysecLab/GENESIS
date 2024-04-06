@@ -1,3 +1,6 @@
 [submodule "GENESIS-x86"]
 	path = GENESIS-x86
 	url = git@github.com:KAIST-CysecLab/GENESIS-x86.git
+[submodule "GENESIS-RISCV"]
+	path = GENESIS-RISCV
+	url = git@github.com:KAIST-CysecLab/GENESIS-RISCV.git
